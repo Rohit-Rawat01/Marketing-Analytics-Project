@@ -1,5 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Rohit-Rawat01/Marketing-Analytic-Project/blob/main/notebooks/Marketing_Performance_Analysis.ipynb)
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Rohit-Rawat01/Marketing-Analytic-Project/blob/main/notebooks/Marketing_Performance_Analysis.ipynb)"-->
 
 # 📊 Marketing Performance Analysis using Python
 
